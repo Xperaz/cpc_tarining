@@ -14,7 +14,7 @@ int main() {
         else if (str[i] >= 'A' && str[i] <= 'Z')
             up += 1;
     }
-
+    
    if (up > low)
     {
         string nstr;
