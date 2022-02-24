@@ -4,12 +4,6 @@
 using namespace std;
  
 int main() {
-#include <iostream>
-#include <cmath>
-#include <algorithm>
-using namespace std;
- 
-int main() {
   string nb;
   
   cin >> nb;
